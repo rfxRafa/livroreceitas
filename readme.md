@@ -6,4 +6,6 @@ Teste de Receitas
 
 - Bolo;
 
+- Panqueca.
+
   
